@@ -1,2 +1,4 @@
-# graphql-resources
-Various GraphQL resources
+# Graphql Resources
+
+### Design Pattern
+[Relay Pattern](https://relay.dev/graphql/connections.htm)
